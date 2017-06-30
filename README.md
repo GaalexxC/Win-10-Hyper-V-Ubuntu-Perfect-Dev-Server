@@ -36,7 +36,9 @@ Its about a 15 minute setup give or take and once completed you can start develo
 
 Installing Git, NodeJS/NPM, Gems, what have you... I will leave up to the user as this is a personal preference depending on ones needs.
 
-I recommend using my nginxubuntu-php7 bash script to automate everything after the Ubuntu OS install.
+## Highly Reccommended!
+
+I recommend using my [nginxubuntu-php7](https://github.com/GaryCornell/nginxubuntu-php7) bash script to automate everything after the Ubuntu OS install.
 
 So lets get started, the step by step is on the wiki pages here
 
