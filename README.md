@@ -42,6 +42,9 @@ I recommend using my [nginxubuntu-php7](https://github.com/GaryCornell/nginxubun
 
 So lets get started, the step by step is on the [wiki pages](https://github.com/GaryCornell/Win-10-Hyper-V-Ubuntu-16.x-Perfect-Dev-Server/wiki/Getting-Started)
 
+## License
+
+Use it and Enjoy License to develop
 
 
 
