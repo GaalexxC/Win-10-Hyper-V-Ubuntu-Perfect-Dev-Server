@@ -23,7 +23,7 @@ Its about a 15 minute setup give or take and once completed you can start develo
 
 ## Security
 
-- Since this will be a local server install we don’t have to go crazy with the security aspects but I will show best practices that can be carried over to a public production environment so users understand some simple configurations that mean a whole lot when creating a publically accessed server.
+- Since this will be a local server install we don’t have to go crazy with the security aspects but I will show best practices that can be carried over to a public production environment so users understand some simple configurations that mean a whole lot when creating a publicly accessed server.
 
 ## Installed Programs
 
