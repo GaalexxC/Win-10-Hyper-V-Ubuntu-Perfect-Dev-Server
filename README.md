@@ -2,7 +2,7 @@
 
 Setting up a native Linux development environment on Windows 10 is not only easy but a great way to get the feel for a live production environment for you application. Windows 10 has finally made Hyper-V a viable alternative to other Windows Linux dev environments such as Xampp which in my opinion had its day and is no longer needed. Why bother? When you can have a real Linux environment like Ubuntu running in all its glory. Of course you can choose any Linux flavor you are comfortable with Debian or Fedora core that is compatible with Hyper-V gen 1 or gen 2.
 
-Its about a 15 minute setup give or take and once completed you can start developing immediately.
+Its about a 15 minute setup give or take and once completed you can start developing immediately. Now if its your first time then it may take much longer but once you get the hang of it creating containers and servers will be fast and easy as pie.
 
 ## Covered
 
