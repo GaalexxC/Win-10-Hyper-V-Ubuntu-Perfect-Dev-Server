@@ -38,7 +38,7 @@ Installing Git, NodeJS/NPM, Gems, what have you... I will leave up to the user a
 
 ## Highly Reccommended!
 
-I recommend using my [nginxubuntu-php7](https://github.com/GaryCornell/nginxubuntu-php7) bash script to automate everything after the Ubuntu OS install.
+I recommend using my [nginxubuntu-php7](https://github.com/GaryCornell/nginxubuntu-php7) bash script to automate everything after the Ubuntu OS install. Thgis will cut the install process in half and will not only install the required software but configure everyhting for you as well.
 
 So lets get started, the step by step is on the [wiki pages](https://github.com/GaryCornell/Win-10-Hyper-V-Ubuntu-16.x-Perfect-Dev-Server/wiki/Getting-Started)
 
