@@ -9,7 +9,8 @@ Its about a 15 minute setup give or take and once completed you can start develo
 - Hyper-V Setup and configuration (1 minute)
 - Ubuntu Server 16.x install and configuration (5 minutes)
 - Software installs and configurations (6 minutes)
-- Start Developing!
+- Yada, Yada, Yada (120 seconds)
+- Start Developing! (a lifetime)
 
 ## Required
 
