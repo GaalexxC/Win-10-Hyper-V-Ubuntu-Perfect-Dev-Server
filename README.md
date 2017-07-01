@@ -31,7 +31,7 @@ Its about a 15 minute setup give or take and once completed you can start develo
 
 1. Nginx Mainline ( Either using: apt / my bash autosetup / custom compiled with latest OpenSSL)
 2. PHP7 w/dependencies
-3. Percona MySQL Server 5.7 ( Or Oracle MySQL or MarieDB whatever is to your liking)
+3. Percona MySQL Server 5.7 ( Or Oracle MySQL or MariaDB whatever is to your liking)
 4. vsFTPd for FTP access
 5. User and directory setup to get going
 
