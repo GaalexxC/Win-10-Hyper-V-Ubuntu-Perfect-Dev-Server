@@ -18,8 +18,8 @@ Its about a 15 minute setup give or take and once completed you can start develo
 - 100GB of space recommended at least 50GB is needed and that’s cutting it close. If you plan on creating several different users and home directories for dev, master, production, etc then I suggest the higher value. Also depending on your application needs, if its just php, python, perl, ruby files etc you’re good with a lower value. But if you have large media files needed for application then use the space accordingly.
 - Decent amount of memory (4GB at least, the more the better for performance). I usually set aside 1-2GB with the dynamic memory option ticked in case more is needed. Again depending on your application needs set this value accordingly.
 - Hyper-V enabled in Windows 10 obviously.
-- Ubuntu 16.04.2 LTS image (.iso)
-- 2 cups of coffee
+- Ubuntu 16/17 or Debian 8/9 image (.iso)
+- 4 cups of coffee
 
 ## Security
 
@@ -29,8 +29,8 @@ Its about a 15 minute setup give or take and once completed you can start develo
 
 - Of course whatever your applications requirements are is what you will install. I will just demonstrate a basic PHP7 based server for PHP development such as Laravel 5 development or any other PHP framework.
 
-1. Nginx Mainline ( Either using: apt / my bash autosetup / custom compiled with latest OpenSSL)
-2. PHP7 w/dependencies
+1. Nginx Mainline/Stable/Source Build ( Either using: apt / my bash autosetup / custom compiled with latest OpenSSL)
+2. PHP7x w/dependencies
 3. Percona MySQL Server 5.7 ( Or Oracle MySQL or MariaDB whatever is to your liking)
 4. vsFTPd for FTP access
 5. User and directory setup to get going
