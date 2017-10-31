@@ -39,9 +39,9 @@ Installing Git, NodeJS/NPM, Ruby Gems, Python, what have you... I will leave up 
 
 ## Highly Reccommended!
 
-I recommend using my [nginxubuntu-php7](https://github.com/GaryCornell/nginxubuntu-php7) bash script to automate everything after the Ubuntu OS install. This will cut the install process in half and will not only install the required software but configure everything for you as well. Ready to go out of the box...
+I recommend using my [nginxubuntu-php7](https://github.com/GaalexxC/nginxubuntu-php7) bash script to automate everything after the Ubuntu OS install. This will cut the install process in half and will not only install the required software but configure everything for you as well. Ready to go out of the box...
 
-So lets get started, the step by step is on the [wiki pages](https://github.com/GaryCornell/Win-10-Hyper-V-Ubuntu-16.x-Perfect-Dev-Server/wiki/Getting-Started)
+So lets get started, the step by step is on the [wiki pages](https://github.com/GaalexxC/Win-10-Hyper-V-Ubuntu-16.x-Perfect-Dev-Server/wiki/Getting-Started)
 
 ## License
 
