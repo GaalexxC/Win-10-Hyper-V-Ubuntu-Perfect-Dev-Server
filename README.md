@@ -1,4 +1,4 @@
-![devCUHead](https://www.devcu.net/mediasrc/github-banner.png?V=1.0)
+![devCUHead](https://www.devcu.com/mediasrc/github-banner.png?V=1.0)
 
 ## ** Become a Patron/Supporter of devCU **
 	
@@ -6,7 +6,7 @@
 
 - Patrons and Donators have access to Beta and Release version up to 2 weeks before the public
 
-[![donate](https://www.devcu.net/mediasrc/patronize_devcu.png)](https://www.patreon.com/devcu/) [![donate](https://www.devcu.net/mediasrc/support_devcu.png?v=1)](https://www.devcu.com/clients/donations/)
+[![donate](https://www.devcu.com/mediasrc/patronize_devcu.png)](https://www.patreon.com/devcu/) [![donate](https://www.devcu.com/mediasrc/support_devcu.png?v=1)](https://www.devcu.com/clients/donations/)
 
 ## Windows 10 Hyper-V / Ubuntu 16.x Perfect Dev Server
 
@@ -57,5 +57,8 @@ So lets get started, the step by step is on the [wiki pages](https://github.com/
 
 Use it and Enjoy License to develop wistfully
 
+## Copyrights
+
+Created by GCornell for devCU Software ©2020
 
 
